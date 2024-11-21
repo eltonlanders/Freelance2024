@@ -1,0 +1,13 @@
+# Ignore dataset files
+data/
+*.csv
+*.xlsx
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
